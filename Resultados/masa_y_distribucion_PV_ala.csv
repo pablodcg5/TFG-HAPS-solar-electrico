@@ -1,0 +1,5 @@
+﻿Caso,S_alar (m2),f_PV_wing (-),A_PV_wing (m2),sigma_PV (kg_m2),m_PV_wing_instalada (kg),m_PV_left (kg),m_PV_right (kg),x_PV_c_start (-),x_PV_c_end (-),margen_TE_PV (m),x_PV_desde_nariz (m),y_PV_inicio_desde_raiz (m),y_PV_fin_desde_raiz (m),y_PV_abs_centroid (m),PV_cabe_en_semiala (1/0)
+Caso_1.1_24m_equinoccio,36.079,0.8,28.8632,0.54,17.924,8.962,8.962,0.02,0.87,0.1954,2.6451,0.3529,11.6471,6.0,1
+Caso_1.2_24m_invierno,36.079,0.8,28.8632,0.54,17.924,8.962,8.962,0.02,0.87,0.1954,2.6451,0.3529,11.6471,6.0,1
+Caso_2.1_32m_equinoccio,63.2006,0.8,50.5605,0.54,31.3981,15.699,15.699,0.02,0.87,0.2568,3.5211,0.4706,15.5294,8.0,1
+Caso_2.2_32m_invierno,63.2006,0.8,50.5605,0.54,31.3981,15.699,15.699,0.02,0.87,0.2568,3.5211,0.4706,15.5294,8.0,1

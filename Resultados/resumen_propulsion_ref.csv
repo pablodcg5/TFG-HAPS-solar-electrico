@@ -1,0 +1,9 @@
+﻿Caso,Escenario,M_propulsion_ref_kg,MF_Prop_ref (-),P_elec_crucero_por_motor_ref (W),I_crucero_por_motor_ref (A),P_elec_max_por_motor_ref (W),I_max_por_motor_ref (A),I_nominal_input_motor_ref (A),Margen_I_crucero_vs_I_nominal (-),Margen_I_max_vs_I_nominal (-),Margen_I_crucero_vs_ESC60A (-),Margen_I_max_vs_ESC60A (-)
+Caso_1.1_24m_equinoccio,Constante_20km,2.112,0.0248,471.7345,9.8278,471.7345,9.8278,14.7917,1.5051,1.5051,6.1051,6.1051
+Caso_1.1_24m_equinoccio,DescensoNocturno_20a15km,2.112,0.0248,471.7345,9.8278,544.6635,11.3472,14.7917,1.5051,1.3036,6.1051,5.2877
+Caso_1.2_24m_invierno,Constante_20km,2.112,0.0248,471.7345,9.8278,471.7345,9.8278,14.7917,1.5051,1.5051,6.1051,6.1051
+Caso_1.2_24m_invierno,DescensoNocturno_20a15km,2.112,0.0248,471.7345,9.8278,567.3861,11.8205,14.7917,1.5051,1.2514,6.1051,5.0759
+Caso_2.1_32m_equinoccio,Constante_20km,2.112,0.0141,826.3515,17.2157,826.3515,17.2157,14.7917,0.8592,0.8592,3.4852,3.4852
+Caso_2.1_32m_equinoccio,DescensoNocturno_20a15km,2.112,0.0141,826.3515,17.2157,955.0664,19.8972,14.7917,0.8592,0.7434,3.4852,3.0155
+Caso_2.2_32m_invierno,Constante_20km,2.112,0.0141,826.3515,17.2157,826.3515,17.2157,14.7917,0.8592,0.8592,3.4852,3.4852
+Caso_2.2_32m_invierno,DescensoNocturno_20a15km,2.112,0.0141,826.3515,17.2157,995.1692,20.7327,14.7917,0.8592,0.7134,3.4852,2.894
